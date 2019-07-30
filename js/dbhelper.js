@@ -8,7 +8,7 @@ class DBHelper {
    * Change this to restaurants.json file location on your server.
    */
   static get DATABASE_URL() {
-    return `hajahmedm.github.io/Resturant-Reviews/data/restaurants.json`;
+    return `https://hajahmedm.github.io/Resturant-Reviews/data/restaurants.json`;
   }
 
   /**
